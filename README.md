@@ -4,10 +4,9 @@
 Proyek ini bertujuan untuk menggunakan sistem kamera kamera dengan efek filter.
 
 ## Dependencies Yang Dipakai:
-- camera: ^0.11.1
-- camera_web: ^0.3.5
+- camera: ^0.10.5+9
+- image: ^4.1.7
 - path_provider: ^2.1.5
-- path: ^1.9.0
 
 ## Komponen Utama:
 1. **Camera Screen** = Menyediakan tampilan utama untuk menangkap gambar secara real-time menggunakan camera package.
@@ -18,8 +17,8 @@ Proyek ini bertujuan untuk menggunakan sistem kamera kamera dengan efek filter.
 <!-- ![Nofilter](assets/images/NoFilter.jpg)
 ![Filter](assets/images/Filter.jpg) -->
 
-<img src="assets/images/camera.jpg" alt="Camera" width="300px">
-<img src="assets/images/hasilfoto.jpg" alt="Hasil dengan filter" width="300px">
+<img src="assets/images/Nofilter.jpg" alt="Camera" width="300px">
+<img src="assets/images/Filtering.jpg" alt="Hasil dengan filter" width="300px">
 
 # 2. Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya!
 ## Done...
